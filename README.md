@@ -31,16 +31,16 @@ making it ideal for long videos (1+ hour), especially in Persian (Farsi).
 **Linux**
 ```bash
 sudo apt install ffmpeg
-
+```
 ---
 **macOS**
-
+```
 brew install ffmpeg
-
+```
 ---
 
 **Windows**
-Download from: https://ffmpeg.org/download.html
+Download from: ```https://ffmpeg.org/download.html```
 
 (Add ffmpeg to PATH)
 
